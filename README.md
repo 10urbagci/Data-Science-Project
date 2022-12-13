@@ -1,2 +1,5 @@
 # Data Science API Project
- Data Science Project
+<p>The aim of the project is to process and analyze this data by pulling data with API. Data about coins were obtained through API. Data was first obtained in JSON format. Then the data file in JSON format was converted to CSV file. I had two goals while doing this project. The first is to learn to pull data with the API. The second is to work on files in JSON format. After converting the data to CSV file, analysis studies were performed on it. The data obtained was related to coins. Classification was done using Machine Learning on coin types. It was a study on the effect of coin price and volume in classifying coin types. Logistic Regression, Decision Tree and SVC(Support Vector Classification) algorithms were used in the project.</p>
+<p>Pandas and Scikit-Learn libraries were used in the project</p>
+<p>Google Colab was used for the working environment of the project.</p>
+<p>API Endpoint:<a href ="https://api.coinlore.net/api/coin/markets/?id=90">coinlore.net</a></p>
