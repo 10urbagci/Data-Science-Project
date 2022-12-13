@@ -1,0 +1,502 @@
+[
+      {
+            "name": "Binance",
+            "base": "BTC",
+            "quote": "USDT",
+            "price": 17180.84,
+            "price_usd": 17180.84,
+            "volume": 205931.28506,
+            "volume_usd": 3540915305.3646,
+            "time": 1670920336
+      },
+      {
+            "name": "Binance",
+            "base": "BTC",
+            "quote": "BUSD",
+            "price": 17190.32,
+            "price_usd": 17190.32,
+            "volume": 138497.82017,
+            "volume_usd": 2380821848.0248,
+            "time": 1670920336
+      },
+      {
+            "name": "BingX",
+            "base": "BTC",
+            "quote": "USDT",
+            "price": 17189,
+            "price_usd": 17189,
+            "volume": 77735.7779,
+            "volume_usd": 1336200286.3231,
+            "time": 1670920211
+      },
+      {
+            "name": "CITEX",
+            "base": "ETH",
+            "quote": "BTC",
+            "price": 0.073588,
+            "price_usd": 1263.7274598334923,
+            "volume": 484658.523,
+            "volume_usd": 612476284.15744,
+            "time": 1670920208
+      },
+      {
+            "name": "Indoex",
+            "base": "BTC",
+            "quote": "USD",
+            "price": 17136.703737917578,
+            "price_usd": 17136.703737917578,
+            "volume": 32580.159548611,
+            "volume_usd": 558316541.91863,
+            "time": 1670920334
+      },
+      {
+            "name": "Tidex",
+            "base": "BTC",
+            "quote": "USDT",
+            "price": 17184.8929775,
+            "price_usd": 17184.8929775,
+            "volume": 19544.365836,
+            "volume_usd": 335867835.20477,
+            "time": 1670920331
+      },
+      {
+            "name": "Indoex",
+            "base": "BTC",
+            "quote": "EUR",
+            "price": 16246.05502835226,
+            "price_usd": 17162.353058125584,
+            "volume": 19323.937536429,
+            "volume_usd": 331644238.47336,
+            "time": 1670920334
+      },
+      {
+            "name": "Gate",
+            "base": "BTC",
+            "quote": "USDT",
+            "price": 17181.3,
+            "price_usd": 17181.3,
+            "volume": 15871.304706031,
+            "volume_usd": 272689647.54573,
+            "time": 1670920223
+      },
+      {
+            "name": "Indoex",
+            "base": "ETH",
+            "quote": "BTC",
+            "price": 0.07352336349388688,
+            "price_usd": 1261.3177856625375,
+            "volume": 192148.24709538,
+            "volume_usd": 242360001.54528,
+            "time": 1670920334
+      },
+      {
+            "name": "Indoex",
+            "base": "BTC",
+            "quote": "USDT",
+            "price": 17161.660287767656,
+            "price_usd": 17161.660287767656,
+            "volume": 13714.777091264,
+            "volume_usd": 235368345.36273,
+            "time": 1670920334
+      },
+      {
+            "name": "Whitebit",
+            "base": "BTC",
+            "quote": "USDT",
+            "price": 17180.08,
+            "price_usd": 17180.08,
+            "volume": 12789.49032,
+            "volume_usd": 219724466.85683,
+            "time": 1670920332
+      },
+      {
+            "name": "FMFW.io",
+            "base": "BTC",
+            "quote": "USDT",
+            "price": 17183.79,
+            "price_usd": 17183.79,
+            "volume": 11709.53905,
+            "volume_usd": 201214260.032,
+            "time": 1670920214
+      },
+      {
+            "name": "HitBTC",
+            "base": "BTC",
+            "quote": "USDT",
+            "price": 17178.84,
+            "price_usd": 17178.84,
+            "volume": 11707.65524,
+            "volume_usd": 201123936.14312,
+            "time": 1670920335
+      },
+      {
+            "name": "Bitmart",
+            "base": "BTC",
+            "quote": "USDT",
+            "price": 17161.63,
+            "price_usd": 17161.63,
+            "volume": 10283.13492,
+            "volume_usd": 176475356.73712,
+            "time": 1670920097
+      },
+      {
+            "name": "Big.One",
+            "base": "BTC",
+            "quote": "USDT",
+            "price": 17174.59,
+            "price_usd": 17174.59,
+            "volume": 10212.959335,
+            "volume_usd": 175403389.2653,
+            "time": 1670920331
+      },
+      {
+            "name": "MEXC Global",
+            "base": "BTC",
+            "quote": "USDT",
+            "price": 17181.45,
+            "price_usd": 17181.45,
+            "volume": 9304.74099,
+            "volume_usd": 159868942.08264,
+            "time": 1670920220
+      },
+      {
+            "name": "Coinsbit",
+            "base": "BTC",
+            "quote": "BUSD",
+            "price": 17181.63118713,
+            "price_usd": 17181.63118713,
+            "volume": 8251.33785662,
+            "volume_usd": 141771443.85285,
+            "time": 1670920331
+      },
+      {
+            "name": "Coinsbit",
+            "base": "BTC",
+            "quote": "USDT",
+            "price": 17172.72298417,
+            "price_usd": 17172.72298417,
+            "volume": 7916.19687897,
+            "volume_usd": 135942656.0907,
+            "time": 1670920331
+      },
+      {
+            "name": "P2PB2B",
+            "base": "BTC",
+            "quote": "BUSD",
+            "price": 17180.77,
+            "price_usd": 17180.77,
+            "volume": 7075.275032,
+            "volume_usd": 121558673.01153,
+            "time": 1670920213
+      },
+      {
+            "name": "Indoex",
+            "base": "BTC",
+            "quote": "USDC",
+            "price": 17167.635041431175,
+            "price_usd": 17167.635041431175,
+            "volume": 5786.0178457963,
+            "volume_usd": 99332242.719839,
+            "time": 1670920334
+      },
+      {
+            "name": "BTSE",
+            "base": "BTC",
+            "quote": "USD",
+            "price": 17178.8,
+            "price_usd": 17178.8,
+            "volume": 5080.3696901157,
+            "volume_usd": 87274654.83256,
+            "time": 1670920210
+      },
+      {
+            "name": "P2PB2B",
+            "base": "BTC",
+            "quote": "USD",
+            "price": 17172,
+            "price_usd": 17172,
+            "volume": 4994.04233,
+            "volume_usd": 85757694.89076,
+            "time": 1670920213
+      },
+      {
+            "name": "ExtStock",
+            "base": "BCH",
+            "quote": "BTC",
+            "price": 0.02965297,
+            "price_usd": 509.2307503209593,
+            "volume": 158350.00646901,
+            "volume_usd": 80636692.607543,
+            "time": 1670920330
+      },
+      {
+            "name": "ExtStock",
+            "base": "LTC",
+            "quote": "BTC",
+            "price": 0.00571148,
+            "price_usd": 98.08330315119035,
+            "volume": 818926.9935853,
+            "volume_usd": 80323064.57052,
+            "time": 1670920330
+      },
+      {
+            "name": "ZB.com",
+            "base": "BTC",
+            "quote": "USDT",
+            "price": 17115.49,
+            "price_usd": 17115.49,
+            "volume": 4418.0616,
+            "volume_usd": 75617289.134184,
+            "time": 1670920285
+      },
+      {
+            "name": "Indoex",
+            "base": "ETC",
+            "quote": "BTC",
+            "price": 0.001057981555790698,
+            "price_usd": 18.150025921116665,
+            "volume": 3931843.7820538,
+            "volume_usd": 71363066.562058,
+            "time": 1670920334
+      },
+      {
+            "name": "OKEX",
+            "base": "BTC",
+            "quote": "USDT",
+            "price": 17183.6,
+            "price_usd": 17183.6,
+            "volume": 3885.57230361,
+            "volume_usd": 66768120.236313,
+            "time": 1670920333
+      },
+      {
+            "name": "Bitrue",
+            "base": "BTC",
+            "quote": "USDT",
+            "price": 17179.28,
+            "price_usd": 17179.28,
+            "volume": 3702.9231,
+            "volume_usd": 63613552.753368,
+            "time": 1670920335
+      },
+      {
+            "name": "BitForex",
+            "base": "ETH",
+            "quote": "BTC",
+            "price": 0.07367364,
+            "price_usd": 1265.8545885888,
+            "volume": 48825.5339,
+            "volume_usd": 61806026.127613,
+            "time": 1670920331
+      },
+      {
+            "name": "Bybit",
+            "base": "BTC",
+            "quote": "USDT",
+            "price": 17180.03,
+            "price_usd": 17180.03,
+            "volume": 3540.205827,
+            "volume_usd": 60820842.314035,
+            "time": 1670920330
+      },
+      {
+            "name": "YoBit",
+            "base": "ETH",
+            "quote": "BTC",
+            "price": 0.07387947,
+            "price_usd": 1325.02829445,
+            "volume": 45729.32174039,
+            "volume_usd": 60592645.192024,
+            "time": 1670919914
+      },
+      {
+            "name": "Bitmart",
+            "base": "BTC",
+            "quote": "USDC",
+            "price": 17170.72,
+            "price_usd": 17170.72,
+            "volume": 3442.193188,
+            "volume_usd": 59104935.417055,
+            "time": 1670920097
+      },
+      {
+            "name": "Kucoin",
+            "base": "BTC",
+            "quote": "USDT",
+            "price": 17181.3,
+            "price_usd": 17181.3,
+            "volume": 3273.58571749,
+            "volume_usd": 56244458.287911,
+            "time": 1670920336
+      },
+      {
+            "name": "Dcoin",
+            "base": "BTC",
+            "quote": "USDT",
+            "price": 17179.94,
+            "price_usd": 17179.94,
+            "volume": 3147,
+            "volume_usd": 54065271.18,
+            "time": 1670920211
+      },
+      {
+            "name": "Lbank",
+            "base": "ETH",
+            "quote": "BTC",
+            "price": 0.07383379,
+            "price_usd": 1267.4943361994,
+            "volume": 40116.0202,
+            "volume_usd": 50846828.394361,
+            "time": 1670920335
+      },
+      {
+            "name": "Huobi",
+            "base": "BTC",
+            "quote": "USDT",
+            "price": 17167.68,
+            "price_usd": 17167.68,
+            "volume": 2928.7209811744,
+            "volume_usd": 50279344.614088,
+            "time": 1670920268
+      },
+      {
+            "name": "DigiFinex",
+            "base": "BTC",
+            "quote": "USDT",
+            "price": 17180.71,
+            "price_usd": 17180.71,
+            "volume": 2868.55043742,
+            "volume_usd": 49283733.185686,
+            "time": 1670920214
+      },
+      {
+            "name": "Binance",
+            "base": "BNB",
+            "quote": "BTC",
+            "price": 0.015513,
+            "price_usd": 266.542426875,
+            "volume": 184085.116,
+            "volume_usd": 49066493.570206,
+            "time": 1670920336
+      },
+      {
+            "name": "Binance",
+            "base": "BTC",
+            "quote": "EUR",
+            "price": 16280.83,
+            "price_usd": 17199.089382110902,
+            "volume": 2850.97211,
+            "volume_usd": 49034124.145795,
+            "time": 1670920336
+      },
+      {
+            "name": "BitForex",
+            "base": "BTC",
+            "quote": "USDT",
+            "price": 17181.92,
+            "price_usd": 17181.92,
+            "volume": 2463.8996,
+            "volume_usd": 42334525.815232,
+            "time": 1670920331
+      },
+      {
+            "name": "Kraken",
+            "base": "BTC",
+            "quote": "USD",
+            "price": 17179.9,
+            "price_usd": 17179.9,
+            "volume": 2296.73764827,
+            "volume_usd": 39457723.123514,
+            "time": 1670920236
+      },
+      {
+            "name": "Indoex",
+            "base": "TRX",
+            "quote": "BTC",
+            "price": 3.082083034988e-06,
+            "price_usd": 0.05287416086782215,
+            "volume": 727967521.37346,
+            "volume_usd": 38490671.83165,
+            "time": 1670920334
+      },
+      {
+            "name": "Binance",
+            "base": "ETH",
+            "quote": "BTC",
+            "price": 0.073728,
+            "price_usd": 1266.78528,
+            "volume": 28589.5286,
+            "volume_usd": 36216793.992619,
+            "time": 1670920336
+      },
+      {
+            "name": "Bitfinex",
+            "base": "BTC",
+            "quote": "USD",
+            "price": 17202,
+            "price_usd": 17202,
+            "volume": 2044.78558191,
+            "volume_usd": 35174401.580016,
+            "time": 1670920335
+      },
+      {
+            "name": "Whitebit",
+            "base": "ETH",
+            "quote": "BTC",
+            "price": 0.07373,
+            "price_usd": 1267.06663925,
+            "volume": 24361.93,
+            "volume_usd": 30868188.770744,
+            "time": 1670920332
+      },
+      {
+            "name": "Bitstamp",
+            "base": "BTC",
+            "quote": "USD",
+            "price": 17191,
+            "price_usd": 17191,
+            "volume": 1435.96822672,
+            "volume_usd": 24685729.785544,
+            "time": 1670920210
+      },
+      {
+            "name": "Indoex",
+            "base": "BCHSV",
+            "quote": "BTC",
+            "price": 0.002711982583163101,
+            "price_usd": 46.524964365035665,
+            "volume": 495887.25508984,
+            "volume_usd": 23071136.87213,
+            "time": 1670920334
+      },
+      {
+            "name": "Lbank",
+            "base": "BTC",
+            "quote": "USDT",
+            "price": 17166.86,
+            "price_usd": 17166.86,
+            "volume": 1342.2003,
+            "volume_usd": 23041364.642058,
+            "time": 1670920335
+      },
+      {
+            "name": "Resfinex",
+            "base": "BTC",
+            "quote": "USDT",
+            "price": 17179.47,
+            "price_usd": 17179.47,
+            "volume": 1340.7947952781,
+            "volume_usd": 23034143.961636,
+            "time": 1670920324
+      },
+      {
+            "name": "LATOKEN",
+            "base": "BTC",
+            "quote": "USDT",
+            "price": 17161.37,
+            "price_usd": 17161.37,
+            "volume": 1297.7657620575,
+            "volume_usd": 22271438.416001,
+            "time": 1670920215
+      }
+]
